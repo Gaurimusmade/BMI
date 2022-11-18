@@ -1,0 +1,48 @@
+.container{
+    width: 450px;
+    margin: auto;
+    border: 2px solid black;
+    background: linear-gradient(rgb(197, 197, 236), rgb(236, 170, 170));
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    border-radius: 10px;
+    padding-bottom: 20px;
+}
+input{
+    margin-top: 15px;
+    margin-left: 20px;
+    width: 350px;
+    height: 32px;
+    font-size: 19px;
+    opacity: 0.8;
+    font-weight: 600;
+}
+#ans{
+    font-size: 21px;
+    font-weight: 500;
+    color: red;
+}
+button:hover{
+    background: transparent;
+    border: 1px solid black;
+}
+.name{
+    margin-top: 15px;
+}
+button{
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 19px;
+    font-weight: 500;
+    background: linear-gradient(red,black);
+    border-radius: 5px;
+    border: none;
+    margin-top: 20px;
+}
+.guide{
+    font-size: 19px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
